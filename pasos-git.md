@@ -7,3 +7,5 @@ Dar seguimiento a los archivos de nuestro repositorio
 git add .
 
 Paso 3:
+Crear una version (commit) del repositorio
+git commit -m "Version 1 de mi repositorio"
